@@ -1,5 +1,5 @@
 # Simple-CPU
-32位 MIPS CPU 单周期处理器
+32位 MIPS CPU 单周期处理器，实现较好封装
 
 ## Demo
 
