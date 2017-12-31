@@ -3,4 +3,4 @@
 
 ## Demo
 
-![](http://oklhb00qa.bkt.clouddn.com/CPUfinish.png)
+![](http://oklhb00qa.bkt.clouddn.com/CPUOK.png)
